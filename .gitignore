@@ -1,0 +1,25 @@
+# Python / ML
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# Datasets
+data/
+datasets/
+*.csv
+*.xlsx
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
