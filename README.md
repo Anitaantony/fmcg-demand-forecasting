@@ -61,9 +61,9 @@ An interactive dashboard provides real-time visibility into inventory status, de
 ---
 
 ## Guide Details
- Mr. Gopeekrishnan R
- Associate Professor  
- Department of Master Of Computer Applications
+Mr. Gopeekrishnan R
+Associate Professor  
+Department of Master Of Computer Applications
 
  ---
 ##
